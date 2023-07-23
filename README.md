@@ -1,6 +1,4 @@
-# Landing page for Venus Travel
-
-Designed by Bedimcode.
+# Landing page for Travelify
 
 ## Technologies
 
